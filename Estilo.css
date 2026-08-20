@@ -1,0 +1,39 @@
+body{
+    background-color: bisque;
+}
+
+h1{
+    font-family: 'Comic Sans MS';
+    text-align: center;
+}
+
+h2{
+    font-family: 'Comic Sans MS';
+    text-align: center;
+}
+
+p{
+    font-family: 'Comic Sans MS';
+}
+
+img{
+    margin: 10px;
+    text-align: center;
+    border: 5px solid black
+}
+
+a{
+    font-family: 'Comic Sans MS';
+    text-decoration: none;
+    text-align: center;
+}
+
+#Titulo{
+    text-align: center;
+    color: black;
+}
+
+#Copyright{
+    text-align: center;
+    font-size: 15px;
+}
